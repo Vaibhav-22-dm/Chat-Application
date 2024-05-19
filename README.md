@@ -3,6 +3,9 @@
 ## About the Project
 This is a one-to-one Real Time chat application built using Django and Channels.
 
+![image](https://github.com/Vaibhav-22-dm/Chat-Application/assets/79047616/dceaffee-59f7-4850-9831-826deb6fcc0f)
+
+
 ## Installation 
 
 To install the following app on your local system follow the steps given below:
