@@ -1,7 +1,7 @@
 # Chat-Application
 
 ## About the Project
-This is one-to-one Real Time chat application built using Django and Channels.
+This is a one-to-one Real Time chat application built using Django and Channels.
 
 ## Installation 
 
